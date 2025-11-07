@@ -2,12 +2,6 @@
     (
         modifiers: [
             Super,
-        ],
-        key: "f",
-    ): Maximize,
-    (
-        modifiers: [
-            Super,
             Shift,
         ],
         key: "F9",
@@ -15,17 +9,17 @@
     ): Spawn("~/nixos-dotfiles/modules/scripts/conservation_mode/off.sh"),
     (
         modifiers: [
-            Ctrl,
-        ],
-        key: "F4",
-    ): Disable,
-    (
-        modifiers: [
             Super,
         ],
         key: "F9",
         description: Some("Conservation Mode On"),
     ): Spawn("~/nixos-dotfiles/modules/scripts/conservation_mode/on.sh"),
+    (
+        modifiers: [
+            Ctrl,
+        ],
+        key: "BackSpace",
+    ): Disable,
     (
         modifiers: [
             Super,
@@ -36,19 +30,25 @@
         modifiers: [
             Super,
         ],
+        key: "m",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
     ): System(Launcher),
     (
         modifiers: [
             Super,
         ],
-        key: "m",
-    ): Disable,
+        key: "f",
+    ): Maximize,
     (
         modifiers: [
-            Ctrl,
+            Super,
         ],
-        key: "BackSpace",
-    ): Disable,
+        key: "e",
+    ): System(HomeFolder),
     (
         modifiers: [
             Ctrl,
@@ -57,8 +57,8 @@
     ): Disable,
     (
         modifiers: [
-            Super,
+            Ctrl,
         ],
-        key: "e",
-    ): System(HomeFolder),
+        key: "F4",
+    ): Disable,
 }
