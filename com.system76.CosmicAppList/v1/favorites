@@ -1,7 +1,7 @@
 [
     "com.system76.CosmicFiles",
-    "com.mitchellh.ghostty",
     "com.system76.CosmicStore",
+    "com.mitchellh.ghostty",
     "com.system76.CosmicSettings",
     "firefox-esr",
     "spotify",

@@ -1,6 +1,6 @@
 (
     output: "all",
-    source: Path("/home/coco/walls-catppuccin-mocha"),
+    source: Path("/home/coco/walls-catppuccin-mocha/city.png"),
     filter_by_theme: false,
     rotation_frequency: 300,
     filter_method: Lanczos,
