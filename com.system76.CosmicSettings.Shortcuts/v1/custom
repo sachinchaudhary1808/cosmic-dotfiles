@@ -11,14 +11,31 @@
         modifiers: [
             Super,
         ],
-        key: "F9",
-        description: Some("Conservation Mode On"),
-    ): Spawn("~/nixos-dotfiles/modules/scripts/conservation_mode/on.sh"),
+        key: "m",
+    ): Disable,
     (
         modifiers: [
             Ctrl,
         ],
-        key: "BackSpace",
+        key: "space",
+    ): Spawn("vicinae  toggle"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "f",
+    ): Maximize,
+    (
+        modifiers: [
+            Ctrl,
+        ],
+        key: "F4",
+    ): Disable,
+    (
+        modifiers: [
+            Ctrl,
+        ],
+        key: "c",
     ): Disable,
     (
         modifiers: [
@@ -30,19 +47,9 @@
         modifiers: [
             Super,
         ],
-        key: "m",
-    ): Disable,
-    (
-        modifiers: [
-            Super,
-        ],
-    ): System(Launcher),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "f",
-    ): Maximize,
+        key: "F9",
+        description: Some("Conservation Mode On"),
+    ): Spawn("~/nixos-dotfiles/modules/scripts/conservation_mode/on.sh"),
     (
         modifiers: [
             Super,
@@ -53,12 +60,6 @@
         modifiers: [
             Ctrl,
         ],
-        key: "c",
-    ): Disable,
-    (
-        modifiers: [
-            Ctrl,
-        ],
-        key: "F4",
+        key: "BackSpace",
     ): Disable,
 }

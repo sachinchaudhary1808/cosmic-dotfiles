@@ -24,15 +24,15 @@
         alpha: 0.2,
     ),
     selected_text: (
-        red: 0.44705883,
-        green: 0.52941173,
-        blue: 0.99215686,
+        red: 0.11764706,
+        green: 0.4,
+        blue: 0.9607843,
         alpha: 1.0,
     ),
     focus: (
-        red: 0.44705883,
-        green: 0.52941173,
-        blue: 0.99215686,
+        red: 0.11764706,
+        green: 0.4,
+        blue: 0.9607843,
         alpha: 1.0,
     ),
     divider: (
