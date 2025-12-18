@@ -2,8 +2,8 @@ Some(([
     "dev.cappsy.CosmicExtAppletLogoMenu",
     "com.system76.CosmicAppletWorkspaces",
     "io.github.cosmic_utils.minimon-applet",
-    "dev.DBrox.CosmicPrivacyIndicator",
     "com.vintagetechie.CosmicExtAppletTempest",
+    "dev.DBrox.CosmicPrivacyIndicator",
 ], [
     "com.system76.CosmicAppletStatusArea",
     "io.github.cosmic_utils.cosmic-ext-applet-clipboard-manager",

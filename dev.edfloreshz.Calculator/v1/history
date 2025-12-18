@@ -1,1 +1,12 @@
-[]
+[
+    (
+        expression: "78+69",
+        outcome: "147",
+        decimal_comma: false,
+    ),
+    (
+        expression: "45+63",
+        outcome: "108",
+        decimal_comma: false,
+    ),
+]
