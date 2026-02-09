@@ -69,18 +69,4 @@
         key: "F9",
         description: Some("Conservation Mode On"),
     ): Spawn("~/nixos-dotfiles/modules/scripts/conservation_mode/on.sh"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "v",
-        description: Some("Clipboard History"),
-    ): Spawn("/home/coco/.cache/appimage-run/7c06148f33b22bfab72a092ca1d757cc524b881dfb84b29bcc65719d3e6307b7/usr/bin/win11-clipboard-history-bin"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "period",
-        description: Some("Emoji Picker"),
-    ): Spawn("/home/coco/.cache/appimage-run/7c06148f33b22bfab72a092ca1d757cc524b881dfb84b29bcc65719d3e6307b7/usr/bin/win11-clipboard-history-bin --emoji"),
 }
