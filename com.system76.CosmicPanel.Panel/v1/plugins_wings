@@ -4,6 +4,7 @@ Some(([
     "io.github.cosmic_utils.minimon-applet",
     "com.vintagetechie.CosmicExtAppletTempest",
 ], [
+    "dev.DBrox.CosmicPrivacyIndicator",
     "com.system76.CosmicAppletStatusArea",
     "com.system76.CosmicAppletA11y",
     "io.github.cosmic_utils.cosmic-ext-applet-clipboard-manager",
