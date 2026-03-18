@@ -3,7 +3,9 @@ Some(([
     "com.system76.CosmicAppletWorkspaces",
     "io.github.cosmic_utils.minimon-applet",
     "com.vintagetechie.CosmicExtAppletTempest",
+    "dev.cappsy.CosmicExtAppletDict",
 ], [
+    "io.github.petar030.cosmic-pomodoro",
     "dev.DBrox.CosmicPrivacyIndicator",
     "com.system76.CosmicAppletStatusArea",
     "com.system76.CosmicAppletA11y",
