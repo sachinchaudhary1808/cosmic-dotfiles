@@ -9,4 +9,14 @@
         outcome: "108",
         decimal_comma: false,
     ),
+    (
+        expression: "56+32",
+        outcome: "88",
+        decimal_comma: false,
+    ),
+    (
+        expression: "88",
+        outcome: "88",
+        decimal_comma: false,
+    ),
 ]

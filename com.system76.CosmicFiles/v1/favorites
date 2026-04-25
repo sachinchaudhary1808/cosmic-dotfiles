@@ -6,4 +6,5 @@
     Pictures,
     Videos,
     Path("/home/coco/python"),
+    Path("/home/coco/Documents/"),
 ]

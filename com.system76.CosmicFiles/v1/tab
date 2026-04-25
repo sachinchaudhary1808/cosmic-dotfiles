@@ -1,8 +1,8 @@
 (
     folders_first: true,
     icon_sizes: (
-        list: 225,
-        grid: 100,
+        list: 200,
+        grid: 175,
     ),
     show_hidden: false,
     single_click: false,
