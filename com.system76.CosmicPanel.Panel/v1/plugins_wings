@@ -5,6 +5,7 @@ Some(([
     "com.vintagetechie.CosmicExtAppletTempest",
     "dev.cappsy.CosmicExtAppletDict",
 ], [
+    "io.github.nalladev.CosmicExtAppletEyedropper",
     "io.github.k33wee.clippy-land",
     "com.system76.CosmicAppletStatusArea",
     "io.github.petar030.cosmic-pomodoro",

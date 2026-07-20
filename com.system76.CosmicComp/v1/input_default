@@ -2,7 +2,7 @@
     state: Enabled,
     acceleration: Some((
         profile: Some(Flat),
-        speed: 0.6042271248762552,
+        speed: 0.17995898741337857,
     )),
     left_handed: Some(false),
     scroll_config: Some((

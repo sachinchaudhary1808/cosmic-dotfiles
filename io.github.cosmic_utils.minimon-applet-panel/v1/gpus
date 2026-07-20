@@ -2,7 +2,9 @@
     "93bbf38c01510d9d01ec52697685f7237b381c733b1003de6fa71e32c89845c6": (
         usage: (
             chart_visible: true,
+            value_visible: false,
             label_visible: false,
+            icon_visible: false,
             chart: Ring,
             colors: (
                 ring: (
@@ -161,7 +163,9 @@
         ),
         vram: (
             chart_visible: true,
+            value_visible: false,
             label_visible: false,
+            icon_visible: true,
             chart: Ring,
             colors: (
                 ring: (
@@ -320,7 +324,9 @@
         ),
         temp: (
             chart_visible: false,
+            value_visible: false,
             label_visible: false,
+            icon_visible: true,
             chart: Ring,
             colors: (
                 ring: (
@@ -480,6 +486,6 @@
             min_temp: 0.0,
         ),
         pause_on_battery: true,
-        stack_labels: true,
+        stack_values: true,
     ),
 }

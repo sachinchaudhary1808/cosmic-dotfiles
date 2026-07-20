@@ -1,12 +1,13 @@
 [
     "com.system76.CosmicFiles",
     "com.system76.CosmicStore",
-    "com.system76.CosmicTerm",
+    "kitty",
     "com.system76.CosmicSettings",
+    "nvim",
+    "dev.zed.Zed",
+    "brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default",
     "firefox-esr",
     "brave-browser",
-    "spotify",
-    "dev.zed.Zed",
     "Waydroid",
     "vesktop",
 ]

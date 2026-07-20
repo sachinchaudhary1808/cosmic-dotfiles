@@ -1,8 +1,8 @@
 (
     output: "all",
-    source: Path("/home/coco/walls-catppuccin-mocha/city.png"),
+    source: Path("/home/coco/Pictures/Wallpapers/walls/anime/a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png"),
     filter_by_theme: false,
-    rotation_frequency: 7200,
+    rotation_frequency: 300,
     filter_method: Lanczos,
     scaling_mode: Zoom,
     sampling_method: Alphanumeric,
