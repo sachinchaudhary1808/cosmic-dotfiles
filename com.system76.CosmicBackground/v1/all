@@ -1,8 +1,8 @@
 (
     output: "all",
-    source: Color(Single((1.0, 0.843, 0.631))),
+    source: Path("/home/coco/Pictures/Wallpapers/walls-catppuccin-mocha/city.png"),
     filter_by_theme: false,
-    rotation_frequency: 900,
+    rotation_frequency: 300,
     filter_method: Lanczos,
     scaling_mode: Zoom,
     sampling_method: Alphanumeric,
